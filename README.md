@@ -4,7 +4,7 @@
 
 📧 **Email:** aqib.reach@gmail.com  
 🔗 **GitHub:** [github.com/aqib-dev0](https://github.com/aqib-dev0)  
-🔗 **LinkedIn:** [linkedin.com/in/aqib-maqbool](https://www.linkedin.com/in/aqib-maqbool)  
+🔗 **LinkedIn:** [linkedin.com/in/aqib-dev](https://www.linkedin.com/in/aqib-dev/)  
 
 ---
 
