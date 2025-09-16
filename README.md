@@ -75,7 +75,7 @@ GitHub, GitLab, Jira, Notion, Confluence, ClickUp, Figma, Slack
 
 ## 🌐 Socials  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-maqbool)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/aqib-dev0)  
 
 ---
