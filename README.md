@@ -13,7 +13,7 @@
 I’m a **Backend Developer & AI Engineer** with a passion for solving complex engineering challenges at scale.  
 From architecting systems handling **500M+ records** to building **RAG-based AI agents**, I thrive at the intersection of **scalability, performance, and intelligence**.  
 
-At **Deriv**, I’ve pioneered automation-driven AI solutions by integrating **LangChain, CrewAI, MCP, and n8n workflows**, transforming operations and accelerating delivery cycles.  
+I’ve pioneered automation-driven AI solutions by integrating **LangChain, CrewAI, MCP, and n8n workflows**, transforming operations and accelerating delivery cycles.  
 I’ve also optimized database infrastructure, cutting costs by **15%** through sharding and indexing strategies, and cleared a **190-day backlog in under a month** through technical innovation.  
 
 ---
